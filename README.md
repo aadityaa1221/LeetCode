@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aadityaa1221/DSA/tree/master/0486-predict-the-winner) |
 | [0994-rotting-oranges](https://github.com/aadityaa1221/DSA/tree/master/0994-rotting-oranges) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadityaa1221/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1652-defuse-the-bomb](https://github.com/aadityaa1221/DSA/tree/master/1652-defuse-the-bomb) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadityaa1221/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aadityaa1221/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 ## Dynamic Programming
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aadityaa1221/DSA/tree/master/0486-predict-the-winner) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/aadityaa1221/DSA/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
