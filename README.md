@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/aadityaa1221/DSA/tree/master/1652-defuse-the-bomb) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadityaa1221/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aadityaa1221/DSA/tree/master/2367-number-of-arithmetic-triplets) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/aadityaa1221/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/aadityaa1221/DSA/tree/master/1652-defuse-the-bomb) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/aadityaa1221/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
+## Simulation
+|  |
+| ------- |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/aadityaa1221/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
