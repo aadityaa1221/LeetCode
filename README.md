@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/aadityaa1221/DSA/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/aadityaa1221/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/aadityaa1221/DSA/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/aadityaa1221/DSA/tree/master/0994-rotting-oranges) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadityaa1221/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1652-defuse-the-bomb](https://github.com/aadityaa1221/DSA/tree/master/1652-defuse-the-bomb) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aadityaa1221/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/aadityaa1221/DSA/tree/master/0877-stone-game) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadityaa1221/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Stack
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aadityaa1221/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/aadityaa1221/DSA/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aadityaa1221/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aadityaa1221/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/aadityaa1221/DSA/tree/master/0877-stone-game) |
 ## Sliding Window
 |  |
 | ------- |
