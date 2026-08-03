@@ -52,6 +52,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/aadityaa1221/DSA/tree/master/0299-bulls-and-cows) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aadityaa1221/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aadityaa1221/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/aadityaa1221/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0299-bulls-and-cows](https://github.com/aadityaa1221/DSA/tree/master/0299-bulls-and-cows) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aadityaa1221/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aadityaa1221/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
@@ -96,6 +98,7 @@
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/aadityaa1221/DSA/tree/master/0299-bulls-and-cows) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aadityaa1221/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Breadth-First Search
 |  |
