@@ -30,6 +30,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0486-predict-the-winner](https://github.com/aadityaa1221/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aadityaa1221/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aadityaa1221/DSA/tree/master/1406-stone-game-iii) |
@@ -81,6 +82,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadityaa1221/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
@@ -138,4 +140,16 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/aadityaa1221/DSA/tree/master/1406-stone-game-iii) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
