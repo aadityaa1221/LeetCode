@@ -158,4 +158,8 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/aadityaa1221/DSA/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
