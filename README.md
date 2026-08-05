@@ -18,6 +18,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/aadityaa1221/DSA/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/aadityaa1221/DSA/tree/master/0283-move-zeroes) |
+| [0330-patching-array](https://github.com/aadityaa1221/DSA/tree/master/0330-patching-array) |
 | [0486-predict-the-winner](https://github.com/aadityaa1221/DSA/tree/master/0486-predict-the-winner) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadityaa1221/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0877-stone-game](https://github.com/aadityaa1221/DSA/tree/master/0877-stone-game) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aadityaa1221/DSA/tree/master/0011-container-with-most-water) |
+| [0330-patching-array](https://github.com/aadityaa1221/DSA/tree/master/0330-patching-array) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadityaa1221/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aadityaa1221/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aadityaa1221/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
