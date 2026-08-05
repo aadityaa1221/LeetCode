@@ -154,6 +154,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0814-binary-tree-pruning](https://github.com/aadityaa1221/DSA/tree/master/0814-binary-tree-pruning) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0814-binary-tree-pruning](https://github.com/aadityaa1221/DSA/tree/master/0814-binary-tree-pruning) |
 ## Database
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0814-binary-tree-pruning](https://github.com/aadityaa1221/DSA/tree/master/0814-binary-tree-pruning) |
 | [3310-remove-methods-from-project](https://github.com/aadityaa1221/DSA/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
