@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/aadityaa1221/DSA/tree/master/0994-rotting-oranges) |
+| [3310-remove-methods-from-project](https://github.com/aadityaa1221/DSA/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -162,4 +163,12 @@
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/aadityaa1221/DSA/tree/master/0185-department-top-three-salaries) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/aadityaa1221/DSA/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/aadityaa1221/DSA/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
