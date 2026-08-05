@@ -82,6 +82,7 @@
 ## Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/aadityaa1221/DSA/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/aadityaa1221/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aadityaa1221/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aadityaa1221/DSA/tree/master/1406-stone-game-iii) |
@@ -173,4 +174,8 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/aadityaa1221/DSA/tree/master/3310-remove-methods-from-project) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/aadityaa1221/DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
