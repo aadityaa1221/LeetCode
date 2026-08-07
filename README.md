@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aadityaa1221/DSA/tree/master/0011-container-with-most-water) |
+| [0063-unique-paths-ii](https://github.com/aadityaa1221/DSA/tree/master/0063-unique-paths-ii) |
 | [0283-move-zeroes](https://github.com/aadityaa1221/DSA/tree/master/0283-move-zeroes) |
 | [0330-patching-array](https://github.com/aadityaa1221/DSA/tree/master/0330-patching-array) |
 | [0486-predict-the-winner](https://github.com/aadityaa1221/DSA/tree/master/0486-predict-the-winner) |
@@ -33,6 +34,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/aadityaa1221/DSA/tree/master/0063-unique-paths-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0486-predict-the-winner](https://github.com/aadityaa1221/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aadityaa1221/DSA/tree/master/0877-stone-game) |
@@ -118,6 +120,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/aadityaa1221/DSA/tree/master/0063-unique-paths-ii) |
 | [0994-rotting-oranges](https://github.com/aadityaa1221/DSA/tree/master/0994-rotting-oranges) |
 ## Recursion
 |  |
