@@ -100,6 +100,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/aadityaa1221/DSA/tree/master/0077-combinations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadityaa1221/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
