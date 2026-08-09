@@ -24,6 +24,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadityaa1221/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0877-stone-game](https://github.com/aadityaa1221/DSA/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/aadityaa1221/DSA/tree/master/0994-rotting-oranges) |
+| [1140-stone-game-ii](https://github.com/aadityaa1221/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aadityaa1221/DSA/tree/master/1406-stone-game-iii) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadityaa1221/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1652-defuse-the-bomb](https://github.com/aadityaa1221/DSA/tree/master/1652-defuse-the-bomb) |
@@ -38,6 +39,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0486-predict-the-winner](https://github.com/aadityaa1221/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aadityaa1221/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/aadityaa1221/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aadityaa1221/DSA/tree/master/1406-stone-game-iii) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadityaa1221/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aadityaa1221/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -94,6 +96,7 @@
 | [0319-bulb-switcher](https://github.com/aadityaa1221/DSA/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/aadityaa1221/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aadityaa1221/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/aadityaa1221/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aadityaa1221/DSA/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aadityaa1221/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aadityaa1221/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -136,6 +139,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/aadityaa1221/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aadityaa1221/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/aadityaa1221/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aadityaa1221/DSA/tree/master/1406-stone-game-iii) |
 ## Sliding Window
 |  |
@@ -157,10 +161,12 @@
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/aadityaa1221/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aadityaa1221/DSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/aadityaa1221/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aadityaa1221/DSA/tree/master/1406-stone-game-iii) |
 ## Tree
 |  |
@@ -194,4 +200,8 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/aadityaa1221/DSA/tree/master/0319-bulb-switcher) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/aadityaa1221/DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
