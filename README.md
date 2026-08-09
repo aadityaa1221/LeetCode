@@ -7,8 +7,6 @@
 * **Advanced Data Structures:** Heaps, Monotonic Stacks, Hash Tables, and Trees.
 * **Pattern Recognition:** Mastering complex array and string manipulations.
 
-*This repository is automatically synchronized and maintained using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).*
-
 ---
 
 <!---LeetCode Topics Start-->
