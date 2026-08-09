@@ -185,6 +185,7 @@
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/aadityaa1221/DSA/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/aadityaa1221/DSA/tree/master/0262-trips-and-users) |
+| [0585-investments-in-2016](https://github.com/aadityaa1221/DSA/tree/master/0585-investments-in-2016) |
 ## Depth-First Search
 |  |
 | ------- |
