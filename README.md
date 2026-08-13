@@ -198,6 +198,7 @@
 | [0262-trips-and-users](https://github.com/aadityaa1221/DSA/tree/master/0262-trips-and-users) |
 | [0585-investments-in-2016](https://github.com/aadityaa1221/DSA/tree/master/0585-investments-in-2016) |
 | [0619-biggest-single-number](https://github.com/aadityaa1221/DSA/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/aadityaa1221/DSA/tree/master/0620-not-boring-movies) |
 | [1070-product-sales-analysis-iii](https://github.com/aadityaa1221/DSA/tree/master/1070-product-sales-analysis-iii) |
 ## Depth-First Search
 |  |
