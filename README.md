@@ -199,6 +199,7 @@
 | [0585-investments-in-2016](https://github.com/aadityaa1221/DSA/tree/master/0585-investments-in-2016) |
 | [0619-biggest-single-number](https://github.com/aadityaa1221/DSA/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/aadityaa1221/DSA/tree/master/0620-not-boring-movies) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/aadityaa1221/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1070-product-sales-analysis-iii](https://github.com/aadityaa1221/DSA/tree/master/1070-product-sales-analysis-iii) |
 ## Depth-First Search
 |  |
