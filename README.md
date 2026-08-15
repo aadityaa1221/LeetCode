@@ -47,6 +47,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/aadityaa1221/DSA/tree/master/0071-simplify-path) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadityaa1221/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
@@ -89,6 +90,7 @@
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/aadityaa1221/DSA/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/aadityaa1221/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0299-bulls-and-cows](https://github.com/aadityaa1221/DSA/tree/master/0299-bulls-and-cows) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aadityaa1221/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
