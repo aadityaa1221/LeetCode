@@ -33,6 +33,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/aadityaa1221/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadityaa1221/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aadityaa1221/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/aadityaa1221/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aadityaa1221/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aadityaa1221/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aadityaa1221/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/aadityaa1221/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
 | ------- |
