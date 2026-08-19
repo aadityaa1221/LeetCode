@@ -23,6 +23,7 @@
 | [0877-stone-game](https://github.com/aadityaa1221/DSA/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/aadityaa1221/DSA/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/aadityaa1221/DSA/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/aadityaa1221/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/aadityaa1221/DSA/tree/master/1406-stone-game-iii) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadityaa1221/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1652-defuse-the-bomb](https://github.com/aadityaa1221/DSA/tree/master/1652-defuse-the-bomb) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/aadityaa1221/DSA/tree/master/0011-container-with-most-water) |
 | [0330-patching-array](https://github.com/aadityaa1221/DSA/tree/master/0330-patching-array) |
+| [1386-cinema-seat-allocation](https://github.com/aadityaa1221/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadityaa1221/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2029-stone-game-ix](https://github.com/aadityaa1221/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aadityaa1221/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -70,6 +72,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/aadityaa1221/DSA/tree/master/0133-clone-graph) |
 | [0299-bulls-and-cows](https://github.com/aadityaa1221/DSA/tree/master/0299-bulls-and-cows) |
+| [1386-cinema-seat-allocation](https://github.com/aadityaa1221/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aadityaa1221/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadityaa1221/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aadityaa1221/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -123,6 +126,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/aadityaa1221/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadityaa1221/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Sorting
 |  |
