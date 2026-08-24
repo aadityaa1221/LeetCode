@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aadityaa1221/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aadityaa1221/DSA/tree/master/0011-container-with-most-water) |
 | [0063-unique-paths-ii](https://github.com/aadityaa1221/DSA/tree/master/0063-unique-paths-ii) |
 | [0283-move-zeroes](https://github.com/aadityaa1221/DSA/tree/master/0283-move-zeroes) |
@@ -187,6 +188,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aadityaa1221/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadityaa1221/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Minimax
 |  |
@@ -254,4 +256,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aadityaa1221/DSA/tree/master/1510-stone-game-iv) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aadityaa1221/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
