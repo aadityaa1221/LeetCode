@@ -75,6 +75,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/aadityaa1221/DSA/tree/master/0133-clone-graph) |
 | [0299-bulls-and-cows](https://github.com/aadityaa1221/DSA/tree/master/0299-bulls-and-cows) |
+| [0355-design-twitter](https://github.com/aadityaa1221/DSA/tree/master/0355-design-twitter) |
 | [1386-cinema-seat-allocation](https://github.com/aadityaa1221/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aadityaa1221/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadityaa1221/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -181,6 +182,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/aadityaa1221/DSA/tree/master/0355-design-twitter) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadityaa1221/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/aadityaa1221/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Simulation
@@ -262,4 +264,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aadityaa1221/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/aadityaa1221/DSA/tree/master/0355-design-twitter) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/aadityaa1221/DSA/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
