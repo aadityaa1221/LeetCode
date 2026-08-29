@@ -75,6 +75,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/aadityaa1221/DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/aadityaa1221/DSA/tree/master/0133-clone-graph) |
 | [0299-bulls-and-cows](https://github.com/aadityaa1221/DSA/tree/master/0299-bulls-and-cows) |
 | [0355-design-twitter](https://github.com/aadityaa1221/DSA/tree/master/0355-design-twitter) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/aadityaa1221/DSA/tree/master/0071-simplify-path) |
+| [0127-word-ladder](https://github.com/aadityaa1221/DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/aadityaa1221/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0299-bulls-and-cows](https://github.com/aadityaa1221/DSA/tree/master/0299-bulls-and-cows) |
 | [1927-sum-game](https://github.com/aadityaa1221/DSA/tree/master/1927-sum-game) |
@@ -153,6 +155,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/aadityaa1221/DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/aadityaa1221/DSA/tree/master/0133-clone-graph) |
 | [0785-is-graph-bipartite](https://github.com/aadityaa1221/DSA/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/aadityaa1221/DSA/tree/master/0994-rotting-oranges) |
@@ -289,4 +292,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/aadityaa1221/DSA/tree/master/0785-is-graph-bipartite) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/aadityaa1221/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
