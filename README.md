@@ -147,6 +147,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/aadityaa1221/DSA/tree/master/0147-insertion-sort-list) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadityaa1221/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aadityaa1221/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aadityaa1221/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -281,6 +282,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/aadityaa1221/DSA/tree/master/0147-insertion-sort-list) |
 | [0355-design-twitter](https://github.com/aadityaa1221/DSA/tree/master/0355-design-twitter) |
 ## Design
 |  |
