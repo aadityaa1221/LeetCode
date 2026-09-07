@@ -17,6 +17,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/aadityaa1221/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aadityaa1221/DSA/tree/master/0011-container-with-most-water) |
 | [0063-unique-paths-ii](https://github.com/aadityaa1221/DSA/tree/master/0063-unique-paths-ii) |
+| [0189-rotate-array](https://github.com/aadityaa1221/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aadityaa1221/DSA/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/aadityaa1221/DSA/tree/master/0312-burst-balloons) |
 | [0330-patching-array](https://github.com/aadityaa1221/DSA/tree/master/0330-patching-array) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/aadityaa1221/DSA/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/aadityaa1221/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/aadityaa1221/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aadityaa1221/DSA/tree/master/0283-move-zeroes) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadityaa1221/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aadityaa1221/DSA/tree/master/2367-number-of-arithmetic-triplets) |
@@ -132,6 +134,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/aadityaa1221/DSA/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/aadityaa1221/DSA/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/aadityaa1221/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aadityaa1221/DSA/tree/master/0877-stone-game) |
