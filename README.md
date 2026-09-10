@@ -266,6 +266,7 @@
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/aadityaa1221/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1070-product-sales-analysis-iii](https://github.com/aadityaa1221/DSA/tree/master/1070-product-sales-analysis-iii) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/aadityaa1221/DSA/tree/master/1741-find-total-time-spent-by-each-employee) |
+| [3475-dna-pattern-recognition](https://github.com/aadityaa1221/DSA/tree/master/3475-dna-pattern-recognition) |
 ## Depth-First Search
 |  |
 | ------- |
