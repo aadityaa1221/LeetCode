@@ -244,6 +244,7 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0814-binary-tree-pruning](https://github.com/aadityaa1221/DSA/tree/master/0814-binary-tree-pruning) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aadityaa1221/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -253,6 +254,7 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0814-binary-tree-pruning](https://github.com/aadityaa1221/DSA/tree/master/0814-binary-tree-pruning) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aadityaa1221/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Database
 |  |
 | ------- |
@@ -269,6 +271,7 @@
 | [0133-clone-graph](https://github.com/aadityaa1221/DSA/tree/master/0133-clone-graph) |
 | [0785-is-graph-bipartite](https://github.com/aadityaa1221/DSA/tree/master/0785-is-graph-bipartite) |
 | [0814-binary-tree-pruning](https://github.com/aadityaa1221/DSA/tree/master/0814-binary-tree-pruning) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aadityaa1221/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/aadityaa1221/DSA/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
