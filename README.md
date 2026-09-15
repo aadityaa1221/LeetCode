@@ -73,6 +73,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/aadityaa1221/DSA/tree/master/0011-container-with-most-water) |
 | [0330-patching-array](https://github.com/aadityaa1221/DSA/tree/master/0330-patching-array) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/aadityaa1221/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1386-cinema-seat-allocation](https://github.com/aadityaa1221/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadityaa1221/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1927-sum-game](https://github.com/aadityaa1221/DSA/tree/master/1927-sum-game) |
@@ -127,6 +128,7 @@
 | [0127-word-ladder](https://github.com/aadityaa1221/DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/aadityaa1221/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0299-bulls-and-cows](https://github.com/aadityaa1221/DSA/tree/master/0299-bulls-and-cows) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/aadityaa1221/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1927-sum-game](https://github.com/aadityaa1221/DSA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aadityaa1221/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aadityaa1221/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/aadityaa1221/DSA/tree/master/0299-bulls-and-cows) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/aadityaa1221/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2029-stone-game-ix](https://github.com/aadityaa1221/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aadityaa1221/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Breadth-First Search
