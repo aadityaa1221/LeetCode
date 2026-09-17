@@ -30,6 +30,7 @@
 | [1340-jump-game-v](https://github.com/aadityaa1221/DSA/tree/master/1340-jump-game-v) |
 | [1386-cinema-seat-allocation](https://github.com/aadityaa1221/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/aadityaa1221/DSA/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aadityaa1221/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadityaa1221/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1652-defuse-the-bomb](https://github.com/aadityaa1221/DSA/tree/master/1652-defuse-the-bomb) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aadityaa1221/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -62,6 +63,7 @@
 | [1340-jump-game-v](https://github.com/aadityaa1221/DSA/tree/master/1340-jump-game-v) |
 | [1387-sort-integers-by-the-power-value](https://github.com/aadityaa1221/DSA/tree/master/1387-sort-integers-by-the-power-value) |
 | [1406-stone-game-iii](https://github.com/aadityaa1221/DSA/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aadityaa1221/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/aadityaa1221/DSA/tree/master/1510-stone-game-iv) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadityaa1221/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aadityaa1221/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -98,6 +100,7 @@
 | [0355-design-twitter](https://github.com/aadityaa1221/DSA/tree/master/0355-design-twitter) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/aadityaa1221/DSA/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [1386-cinema-seat-allocation](https://github.com/aadityaa1221/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aadityaa1221/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aadityaa1221/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadityaa1221/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aadityaa1221/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -217,6 +220,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aadityaa1221/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1652-defuse-the-bomb](https://github.com/aadityaa1221/DSA/tree/master/1652-defuse-the-bomb) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadityaa1221/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aadityaa1221/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -236,6 +240,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aadityaa1221/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadityaa1221/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aadityaa1221/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Minimax
 |  |
 | ------- |
