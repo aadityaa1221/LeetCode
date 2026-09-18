@@ -196,6 +196,7 @@
 | [0133-clone-graph](https://github.com/aadityaa1221/DSA/tree/master/0133-clone-graph) |
 | [0785-is-graph-bipartite](https://github.com/aadityaa1221/DSA/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/aadityaa1221/DSA/tree/master/0994-rotting-oranges) |
+| [1609-even-odd-tree](https://github.com/aadityaa1221/DSA/tree/master/1609-even-odd-tree) |
 | [3310-remove-methods-from-project](https://github.com/aadityaa1221/DSA/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
@@ -260,6 +261,7 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0814-binary-tree-pruning](https://github.com/aadityaa1221/DSA/tree/master/0814-binary-tree-pruning) |
+| [1609-even-odd-tree](https://github.com/aadityaa1221/DSA/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aadityaa1221/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -270,6 +272,7 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0814-binary-tree-pruning](https://github.com/aadityaa1221/DSA/tree/master/0814-binary-tree-pruning) |
+| [1609-even-odd-tree](https://github.com/aadityaa1221/DSA/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aadityaa1221/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Database
 |  |
