@@ -134,6 +134,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/aadityaa1221/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0299-bulls-and-cows](https://github.com/aadityaa1221/DSA/tree/master/0299-bulls-and-cows) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/aadityaa1221/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aadityaa1221/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1927-sum-game](https://github.com/aadityaa1221/DSA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aadityaa1221/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aadityaa1221/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -164,6 +165,7 @@
 | ------- |
 | [0077-combinations](https://github.com/aadityaa1221/DSA/tree/master/0077-combinations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aadityaa1221/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadityaa1221/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aadityaa1221/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
