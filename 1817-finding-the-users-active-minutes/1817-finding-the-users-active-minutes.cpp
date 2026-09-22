@@ -10,10 +10,10 @@ public:
         vector<int> ans(k, 0);
 
         for(auto &[user, min] : mp){
-            int uam = min.size();
+            int UAM = min.size();
 
-            if(uam <= k){
-                ans[uam - 1]++;
+            if(UAM <= k){
+                ans[UAM - 1]++;
             }
         }
 
