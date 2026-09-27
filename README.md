@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/aadityaa1221/DSA/tree/master/0071-simplify-path) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aadityaa1221/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadityaa1221/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
@@ -138,6 +139,7 @@
 | [0127-word-ladder](https://github.com/aadityaa1221/DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/aadityaa1221/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0299-bulls-and-cows](https://github.com/aadityaa1221/DSA/tree/master/0299-bulls-and-cows) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aadityaa1221/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/aadityaa1221/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aadityaa1221/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aadityaa1221/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -366,4 +368,8 @@
 |  |
 | ------- |
 | [1387-sort-integers-by-the-power-value](https://github.com/aadityaa1221/DSA/tree/master/1387-sort-integers-by-the-power-value) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aadityaa1221/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
