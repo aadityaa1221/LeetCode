@@ -36,6 +36,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aadityaa1221/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1817-finding-the-users-active-minutes](https://github.com/aadityaa1221/DSA/tree/master/1817-finding-the-users-active-minutes) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aadityaa1221/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/aadityaa1221/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2029-stone-game-ix](https://github.com/aadityaa1221/DSA/tree/master/2029-stone-game-ix) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadityaa1221/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aadityaa1221/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -190,6 +191,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadityaa1221/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1340-jump-game-v](https://github.com/aadityaa1221/DSA/tree/master/1340-jump-game-v) |
 | [1387-sort-integers-by-the-power-value](https://github.com/aadityaa1221/DSA/tree/master/1387-sort-integers-by-the-power-value) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/aadityaa1221/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2895-minimum-processing-time](https://github.com/aadityaa1221/DSA/tree/master/2895-minimum-processing-time) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aadityaa1221/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aadityaa1221/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -372,4 +374,8 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aadityaa1221/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/aadityaa1221/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
