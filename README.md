@@ -75,6 +75,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/aadityaa1221/DSA/tree/master/0071-simplify-path) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aadityaa1221/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadityaa1221/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -136,6 +137,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/aadityaa1221/DSA/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/aadityaa1221/DSA/tree/master/0115-distinct-subsequences) |
@@ -376,6 +378,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aadityaa1221/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Quicksort
