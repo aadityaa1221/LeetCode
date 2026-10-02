@@ -56,6 +56,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0022-generate-parentheses) |
 | [0063-unique-paths-ii](https://github.com/aadityaa1221/DSA/tree/master/0063-unique-paths-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/aadityaa1221/DSA/tree/master/0115-distinct-subsequences) |
@@ -135,6 +136,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/aadityaa1221/DSA/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/aadityaa1221/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/aadityaa1221/DSA/tree/master/0127-word-ladder) |
@@ -173,6 +175,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/aadityaa1221/DSA/tree/master/0077-combinations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aadityaa1221/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -373,6 +376,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aadityaa1221/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Quicksort
 |  |
