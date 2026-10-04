@@ -63,6 +63,7 @@
 | [0115-distinct-subsequences](https://github.com/aadityaa1221/DSA/tree/master/0115-distinct-subsequences) |
 | [0312-burst-balloons](https://github.com/aadityaa1221/DSA/tree/master/0312-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/aadityaa1221/DSA/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/aadityaa1221/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/aadityaa1221/DSA/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0877-stone-game](https://github.com/aadityaa1221/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aadityaa1221/DSA/tree/master/1140-stone-game-ii) |
@@ -79,6 +80,7 @@
 | [0020-valid-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/aadityaa1221/DSA/tree/master/0071-simplify-path) |
+| [0678-valid-parenthesis-string](https://github.com/aadityaa1221/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aadityaa1221/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadityaa1221/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
@@ -86,6 +88,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/aadityaa1221/DSA/tree/master/0011-container-with-most-water) |
 | [0330-patching-array](https://github.com/aadityaa1221/DSA/tree/master/0330-patching-array) |
+| [0678-valid-parenthesis-string](https://github.com/aadityaa1221/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/aadityaa1221/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1386-cinema-seat-allocation](https://github.com/aadityaa1221/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadityaa1221/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -147,6 +150,7 @@
 | [0127-word-ladder](https://github.com/aadityaa1221/DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/aadityaa1221/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0299-bulls-and-cows](https://github.com/aadityaa1221/DSA/tree/master/0299-bulls-and-cows) |
+| [0678-valid-parenthesis-string](https://github.com/aadityaa1221/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aadityaa1221/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/aadityaa1221/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aadityaa1221/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -384,6 +388,7 @@
 | [0020-valid-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/aadityaa1221/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aadityaa1221/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Quicksort
 |  |
