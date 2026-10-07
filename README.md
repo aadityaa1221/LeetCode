@@ -151,6 +151,7 @@
 | [0127-word-ladder](https://github.com/aadityaa1221/DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/aadityaa1221/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0299-bulls-and-cows](https://github.com/aadityaa1221/DSA/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aadityaa1221/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aadityaa1221/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -189,6 +190,7 @@
 | [0022-generate-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/aadityaa1221/DSA/tree/master/0077-combinations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aadityaa1221/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadityaa1221/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aadityaa1221/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -221,6 +223,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/aadityaa1221/DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/aadityaa1221/DSA/tree/master/0133-clone-graph) |
+| [0301-remove-invalid-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0785-is-graph-bipartite](https://github.com/aadityaa1221/DSA/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/aadityaa1221/DSA/tree/master/0994-rotting-oranges) |
 | [1609-even-odd-tree](https://github.com/aadityaa1221/DSA/tree/master/1609-even-odd-tree) |
