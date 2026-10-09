@@ -85,6 +85,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/aadityaa1221/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aadityaa1221/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadityaa1221/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aadityaa1221/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/aadityaa1221/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1386-cinema-seat-allocation](https://github.com/aadityaa1221/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadityaa1221/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aadityaa1221/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/aadityaa1221/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aadityaa1221/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aadityaa1221/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -159,6 +161,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aadityaa1221/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/aadityaa1221/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aadityaa1221/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aadityaa1221/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aadityaa1221/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/aadityaa1221/DSA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aadityaa1221/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -399,6 +402,7 @@
 | [0856-score-of-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/aadityaa1221/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aadityaa1221/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aadityaa1221/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Quicksort
 |  |
 | ------- |
