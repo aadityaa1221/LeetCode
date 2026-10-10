@@ -40,6 +40,7 @@
 | [2029-stone-game-ix](https://github.com/aadityaa1221/DSA/tree/master/2029-stone-game-ix) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadityaa1221/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aadityaa1221/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aadityaa1221/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aadityaa1221/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/aadityaa1221/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aadityaa1221/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -100,6 +101,7 @@
 | [1927-sum-game](https://github.com/aadityaa1221/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aadityaa1221/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aadityaa1221/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aadityaa1221/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2895-minimum-processing-time](https://github.com/aadityaa1221/DSA/tree/master/2895-minimum-processing-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aadityaa1221/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aadityaa1221/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -215,6 +217,7 @@
 | [1340-jump-game-v](https://github.com/aadityaa1221/DSA/tree/master/1340-jump-game-v) |
 | [1387-sort-integers-by-the-power-value](https://github.com/aadityaa1221/DSA/tree/master/1387-sort-integers-by-the-power-value) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aadityaa1221/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aadityaa1221/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2895-minimum-processing-time](https://github.com/aadityaa1221/DSA/tree/master/2895-minimum-processing-time) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aadityaa1221/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aadityaa1221/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -267,6 +270,7 @@
 | ------- |
 | [0355-design-twitter](https://github.com/aadityaa1221/DSA/tree/master/0355-design-twitter) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadityaa1221/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aadityaa1221/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/aadityaa1221/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Simulation
 |  |
@@ -279,6 +283,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/aadityaa1221/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadityaa1221/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aadityaa1221/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aadityaa1221/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Minimax
 |  |
 | ------- |
