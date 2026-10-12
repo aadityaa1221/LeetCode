@@ -45,6 +45,7 @@
 | [2558-take-gifts-from-the-richest-pile](https://github.com/aadityaa1221/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aadityaa1221/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2895-minimum-processing-time](https://github.com/aadityaa1221/DSA/tree/master/2895-minimum-processing-time) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aadityaa1221/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadityaa1221/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aadityaa1221/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aadityaa1221/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -103,6 +104,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aadityaa1221/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aadityaa1221/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2895-minimum-processing-time](https://github.com/aadityaa1221/DSA/tree/master/2895-minimum-processing-time) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aadityaa1221/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aadityaa1221/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aadityaa1221/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aadityaa1221/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -123,6 +125,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aadityaa1221/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1817-finding-the-users-active-minutes](https://github.com/aadityaa1221/DSA/tree/master/1817-finding-the-users-active-minutes) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aadityaa1221/DSA/tree/master/2367-number-of-arithmetic-triplets) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aadityaa1221/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadityaa1221/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aadityaa1221/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aadityaa1221/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -208,6 +211,7 @@
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/aadityaa1221/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadityaa1221/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aadityaa1221/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aadityaa1221/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
