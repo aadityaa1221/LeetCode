@@ -46,6 +46,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/aadityaa1221/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2895-minimum-processing-time](https://github.com/aadityaa1221/DSA/tree/master/2895-minimum-processing-time) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aadityaa1221/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aadityaa1221/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadityaa1221/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aadityaa1221/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aadityaa1221/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -129,6 +130,7 @@
 | [1817-finding-the-users-active-minutes](https://github.com/aadityaa1221/DSA/tree/master/1817-finding-the-users-active-minutes) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aadityaa1221/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aadityaa1221/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aadityaa1221/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadityaa1221/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aadityaa1221/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aadityaa1221/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -423,4 +425,12 @@
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aadityaa1221/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aadityaa1221/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aadityaa1221/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
