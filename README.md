@@ -85,6 +85,7 @@
 | [0020-valid-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/aadityaa1221/DSA/tree/master/0071-simplify-path) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/aadityaa1221/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/aadityaa1221/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/aadityaa1221/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -167,6 +168,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/aadityaa1221/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0299-bulls-and-cows](https://github.com/aadityaa1221/DSA/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/aadityaa1221/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/aadityaa1221/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/aadityaa1221/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -313,6 +315,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/aadityaa1221/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/aadityaa1221/DSA/tree/master/0814-binary-tree-pruning) |
 | [1609-even-odd-tree](https://github.com/aadityaa1221/DSA/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aadityaa1221/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -324,6 +327,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadityaa1221/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/aadityaa1221/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/aadityaa1221/DSA/tree/master/0814-binary-tree-pruning) |
 | [1609-even-odd-tree](https://github.com/aadityaa1221/DSA/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aadityaa1221/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
