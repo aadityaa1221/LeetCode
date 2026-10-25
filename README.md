@@ -27,6 +27,7 @@
 | [0877-stone-game](https://github.com/aadityaa1221/DSA/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/aadityaa1221/DSA/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/aadityaa1221/DSA/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/aadityaa1221/DSA/tree/master/1254-number-of-closed-islands) |
 | [1340-jump-game-v](https://github.com/aadityaa1221/DSA/tree/master/1340-jump-game-v) |
 | [1386-cinema-seat-allocation](https://github.com/aadityaa1221/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/aadityaa1221/DSA/tree/master/1406-stone-game-iii) |
@@ -249,6 +250,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/aadityaa1221/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0785-is-graph-bipartite](https://github.com/aadityaa1221/DSA/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/aadityaa1221/DSA/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/aadityaa1221/DSA/tree/master/1254-number-of-closed-islands) |
 | [1609-even-odd-tree](https://github.com/aadityaa1221/DSA/tree/master/1609-even-odd-tree) |
 | [3310-remove-methods-from-project](https://github.com/aadityaa1221/DSA/tree/master/3310-remove-methods-from-project) |
 ## Matrix
@@ -256,6 +258,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/aadityaa1221/DSA/tree/master/0063-unique-paths-ii) |
 | [0994-rotting-oranges](https://github.com/aadityaa1221/DSA/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/aadityaa1221/DSA/tree/master/1254-number-of-closed-islands) |
 ## Recursion
 |  |
 | ------- |
@@ -350,6 +353,7 @@
 | [0133-clone-graph](https://github.com/aadityaa1221/DSA/tree/master/0133-clone-graph) |
 | [0785-is-graph-bipartite](https://github.com/aadityaa1221/DSA/tree/master/0785-is-graph-bipartite) |
 | [0814-binary-tree-pruning](https://github.com/aadityaa1221/DSA/tree/master/0814-binary-tree-pruning) |
+| [1254-number-of-closed-islands](https://github.com/aadityaa1221/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aadityaa1221/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/aadityaa1221/DSA/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -394,6 +398,7 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/aadityaa1221/DSA/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/aadityaa1221/DSA/tree/master/1254-number-of-closed-islands) |
 ## Graph Coloring
 |  |
 | ------- |
