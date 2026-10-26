@@ -52,6 +52,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aadityaa1221/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aadityaa1221/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aadityaa1221/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aadityaa1221/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aadityaa1221/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aadityaa1221/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aadityaa1221/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -253,12 +254,14 @@
 | [1254-number-of-closed-islands](https://github.com/aadityaa1221/DSA/tree/master/1254-number-of-closed-islands) |
 | [1609-even-odd-tree](https://github.com/aadityaa1221/DSA/tree/master/1609-even-odd-tree) |
 | [3310-remove-methods-from-project](https://github.com/aadityaa1221/DSA/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aadityaa1221/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/aadityaa1221/DSA/tree/master/0063-unique-paths-ii) |
 | [0994-rotting-oranges](https://github.com/aadityaa1221/DSA/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/aadityaa1221/DSA/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aadityaa1221/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
@@ -356,6 +359,7 @@
 | [1254-number-of-closed-islands](https://github.com/aadityaa1221/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aadityaa1221/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/aadityaa1221/DSA/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aadityaa1221/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -399,6 +403,7 @@
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/aadityaa1221/DSA/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/aadityaa1221/DSA/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aadityaa1221/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Coloring
 |  |
 | ------- |
